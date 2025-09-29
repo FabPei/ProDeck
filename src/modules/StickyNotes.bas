@@ -1,5 +1,5 @@
 Attribute VB_Name = "StickyNotes"
-Sub GenerateStickyNote()
+Sub GenerateStickyNotePD()
 Dim sldHeight As Single
 Dim sldWidth As Single
 Dim stnHeight As Single
